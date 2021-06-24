@@ -1,2 +1,1 @@
-# Notary
-this is a new one page web tamplete design
+https://sazzadsourov.github.io/Notary/
